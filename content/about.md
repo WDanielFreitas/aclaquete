@@ -15,9 +15,8 @@ Main features:
 
 -   
 
-```{=html}
 <!-- -->
-```
+
 -   Responsive design
 
 -   Main & secondary menus
