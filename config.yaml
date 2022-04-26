@@ -1,20 +1,19 @@
 baseurl: /
-title: Mainroad
-languageCode: en-us
+title: A Claquete
+languageCode: pt-br
 paginate: '10'
 theme: Mainroad
 disqusShortname: ''
 googleAnalytics: ''
 Author:
   avatar: img/avatar.png
-  bio: John Doe's true identity is unknown. Maybe he is a successful blogger or writer.
-    Nobody knows it.
-  name: John Doe
+  bio: Graduado em Cinema com especialização em Roteiro e crítico de Cinema.
+  name: Guilherme Cândido
 Params:
   authorbox: yes
   description: John Doe's Personal blog about everything
   logo:
-    subtitle: Just another site
+    subtitle: A FINA FLOR DO CINEMA
   mainSections:
     - post
     - docs
